@@ -45,6 +45,6 @@ jobs:
           name: app-debug-apk
           # Debug APK的默认输出路径（根据你的项目结构调整）
           path: |
-            app/build/outputs/apk/debug/DEBUG.apk
+            rwpp-android/build/outputs/apk/debug/rwpp-android-debug.apk
           # 工件保留时间（默认90天，可自定义）
           retention-days: 30
